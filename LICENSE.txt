@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 The MIT License (MIT) # NAME ADDED : VAIBHAV
+=======
+The MIT License (MIT)  ### EDIT BY VAIBHAV
+>>>>>>> 2a439fa5927f0ab6e79d606472b837fd0a19804f
 
 Copyright (c) 2014 Gabriele Cirulli
 
